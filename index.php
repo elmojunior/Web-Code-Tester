@@ -2,10 +2,13 @@
 <html lang="en-us" dir="ltr">
   <head>
     <meta charset="utf-8">
-    
     <title>Web Code Test</title>
+    
     <!-- CSS -->
     <link rel="stylesheet" href="./codes/css.css">
+    
+    <!-- JQuery -->
+    <script src="./libs/jquery/jquery-3.5.1.min.js" charset="utf-8"></script>
   </head>
   <body>
   
