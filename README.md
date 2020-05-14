@@ -2,6 +2,8 @@
 
 A simple project to test HTML, CSS, JavaScript and PHP codes.
 
+![screenshot](https://raw.githubusercontent.com/elmojunior/Web-Code-Tester/master/screenshot.png)
+
 ## Dependences
 
 - **PHP:** It's necessary to run PHP codes.
